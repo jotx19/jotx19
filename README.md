@@ -6,7 +6,7 @@ I enjoy developing **AI systems and backend infrastructure** to **frontend exper
 
 Currently building [Tifly.ca](https://tifly.ca) — Sidehustle.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotx19/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jotx19.vercel.app) [![Email](https://img.shields.io/badge/-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prabjot24x7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotx19/) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=vercel&logoColor=black)](https://jotx19.vercel.app) [![Email](https://img.shields.io/badge/-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prabjot24x7@gmail.com)
 ## Anatomy
 
 - Anything a model can misinterpret, it eventually will — unless the system prevents it  
