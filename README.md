@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Prabjot
 
-Enthusiastic about building **scalable, reliable, and intelligent systems**, I specialize in designing architectures around LLMs that are **predictable, observable, and production-ready**.  
-
 I enjoy developing **AI systems and backend infrastructure** to **frontend experiences** that make complex systems usable.  
 
-Currently building [Tifly.ca](https://tifly.ca) — Sidehustle.
+- Currently building [Tifly.ca](https://tifly.ca)
+- Currently building [Fringo](https://jotx.space/blog/fringo)
+- Currently improving [Tinyjot](https://tinyjot.jotx.space/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jotx19/) [![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=flat&logo=vercel&logoColor=black)](https://jotx19.vercel.app) [![Email](https://img.shields.io/badge/-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prabjot24x7@gmail.com)
 ## Anatomy
