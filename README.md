@@ -14,7 +14,7 @@ I enjoy developing **AI systems and backend infrastructure** to **frontend exper
 - Determinism comes from system design, not model weights  
 - Memory design defines system reliability  
 
-> I focus on building AI systems where uncertainty is controlled by architecture — not hidden behind it.
+> I learn, I make, I like, I repeat.
 
 
 ## Currently Exploring  
